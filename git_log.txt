@@ -1,0 +1,36 @@
+commit 85a5ca9bf26f2e52f7d29fea93dd9ff658df187e
+Merge: 1607e92 12e5417
+Author: Jacob Alarcon <Jacobalarcon10@yahoo.com>
+Date:   Tue Feb 3 16:13:36 2026 -0800
+
+    Resolved merge conflict
+
+commit 12e5417453867a612b487681dab74518d4e5594d
+Author: Jacob Alarcon <Jacobalarcon10@yahoo.com>
+Date:   Tue Feb 3 16:01:02 2026 -0800
+
+    Added favorite game right now div
+
+commit 1607e925ecdf89e2f1e8aed9d37d4ad5ff024e69
+Author: Jacob Alarcon <Jacobalarcon10@yahoo.com>
+Date:   Tue Feb 3 15:57:56 2026 -0800
+
+    Added facorite food div
+
+commit 02886accb825cdbbb1224f359cc8fb94467ced54
+Author: Jacob Alarcon <Jacobalarcon10@yahoo.com>
+Date:   Tue Feb 3 15:50:56 2026 -0800
+
+    Added README file
+
+commit 39408212002e4757160a4460c43d38433ef713b0
+Author: Jacob Alarcon <Jacobalarcon10@yahoo.com>
+Date:   Tue Feb 3 15:36:17 2026 -0800
+
+    Filled in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
